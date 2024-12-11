@@ -1,0 +1,108 @@
+.topbar
+{
+	BACKGROUND: #333333;
+}
+
+.bottombar
+{
+	BACKGROUND: #DFDFDF;
+}
+
+a.topbar
+{
+	COLOR: #FFFFFF;
+	LETTER-SPACING: -0.2pt;
+}
+
+a.topbar:hover
+{
+	COLOR: #CCCCCC;
+	FONT-WEIGHT: bold;
+	LETTER-SPACING: -0.2pt;
+}
+
+.textbox
+{
+	BORDER: 1px solid #333333;
+	COLOR: #333333;
+	LETTER-SPACING: -0.2pt;	
+}
+
+
+.menutable
+{
+	BORDER-RIGHT: 1px solid #DFDFDF;
+	BACKGROUND: #FCFCFC;
+	FONT-WEIGHT:none;
+}
+.table
+{
+	BORDER-RIGHT: 1px solid #DFDFDF;
+	BORDER-LEFT: 1px solid #DFDFDF;
+	BORDER-BOTTOM: 1px solid #DFDFDF;
+	BACKGROUND: #FCFCFC;
+	FONT-WEIGHT:none;
+}
+.menuheader
+{
+	COLOR: #CC0000;
+	FONT-WEIGHT: bold;
+	LETTER-SPACING: -0.2pt;
+}
+
+a.menuitem
+{
+	COLOR: #CC0000;
+	LETTER-SPACING: -0.2pt;	
+	FONT-WEIGHT:normal;
+}
+
+a.menuitem:hover
+{
+	COLOR: #FF5E5E;
+	LETTER-SPACING: -0.2pt;	
+}
+
+.text
+{
+	COLOR: #333333;
+	LETTER-SPACING: -0.2pt;
+}
+.code
+{
+	COLOR: #333333;
+	LETTER-SPACING: -0.2pt;
+}
+.textbold
+{
+	COLOR: #333333;
+}
+.header
+{
+	COLOR: #CC0000;
+	LETTER-SPACING: -0.2pt;
+}
+
+.pagesummary
+{
+	COLOR: #333333;
+	LETTER-SPACING: -0.2pt;
+}
+
+
+
+.headerwhite
+{
+	COLOR: #FFFFFF;
+	FONT-WEIGHT: bold;
+	LETTER-SPACING: -0.2pt;
+}
+
+
+
+.maroontext
+{
+	COLOR: #CC0000;
+	LETTER-SPACING: -0.2pt;
+
+}
